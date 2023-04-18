@@ -1,0 +1,5 @@
+value,quantity,name
+10, 1000, 'car'
+20, 500, 'bike'
+30, 1500, 'ricksaw'
+40, 4500, 'cycle'
