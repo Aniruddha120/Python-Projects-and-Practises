@@ -8,5 +8,6 @@
 adject = input("Adjective :")
 verb1 = input("Verb : ")
 verb2 = input("verb : ")
-des = f"I am {adject} and so I try to {verb1}. While doing {verb1} I also {verb2} "
+verb3 = input("verb : ")
+des = f"I am {adject} and so I try to {verb1}. While doing {verb1} I also {verb2} anc {verb3}"
 print(des)
