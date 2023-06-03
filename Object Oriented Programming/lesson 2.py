@@ -6,6 +6,7 @@ class Vehicle():
         self.q = quantity
         self.a = value
         self.n = name
+        self.m = age 
     def calculate(self):
         return print(self.q*self.a)
 item1 = Vehicle(10, 1000, 'car')
