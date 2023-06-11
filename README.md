@@ -4,8 +4,8 @@ This repository is to keep track of my python practse code. After not coding for
 
 Target: 
 
-**1**Completing 12 projetcs from this video : https://youtu.be/8ext9G7xspg
+**1** Completing 12 projetcs from this video : https://youtu.be/8ext9G7xspg
 
-**2**Problem Solving From Codeforces : https://codeforces.com/problemset
+**2** Problem Solving From Codeforces : https://codeforces.com/problemset
 
 
