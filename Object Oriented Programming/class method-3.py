@@ -1,5 +1,6 @@
 class Vehicle():
     pay_rate = 0.8
+    hourly_wage = 0.6
     all = []
     def __init__(self, quantity :float , value : float, name : str ):
         
@@ -19,4 +20,6 @@ item2 = Vehicle(20, 500, 'bike')
 item3 = Vehicle(30, 1500, 'ricksaw')
 item4 = Vehicle(40, 4500, 'cycle')
 item1.calculate()
+item3.calculate()
+item4.calculate()
 print(Vehicle.all)
