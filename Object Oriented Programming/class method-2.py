@@ -9,11 +9,13 @@ class Vehicle(): #name of the class
         self.q = quantity #self.q is instance variable, quantuty = attribute
         self.a = value
         self.n = name
+        self.m = measure 
         Vehicle.all.append(self)
     def calculate(self):
         return print(self.q*self.a*self.pay_rate)
 item1 = Vehicle(10, 1000, 'car') #instance of a class , known as an 'Object'
 item2 = Vehicle(20, 500, 'bike')
+item 3=  Vehicle (30,700,'beach bike'
 item1.calculate()
 print(Vehicle.all)
 for inst in Vehicle.all:
