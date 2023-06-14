@@ -10,5 +10,7 @@ class Vehicle():
     def calculate(self):
         return print(self.q*self.a)
 item1 = Vehicle(10, 1000, 'car')
+item2 = Vehicle (20,500,'normal')
 item1.calculate()
+item2.calculate()
         
