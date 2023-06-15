@@ -9,9 +9,12 @@ class Vehicle():
         self.q = quantity
         self.a = value
         self.n = name
+        
         Vehicle.all.append(self)
     def calculate(self):
         return print(self.q*self.a*self.pay_rate)
 item1 = Vehicle(10, 1000, 'car')
 item2 = Vehicle(20, 500, 'bike')
 item1.calculate()
+item1 = Vehicle(10, 1000, 'car')
+item2 = Vehicle (20,500,'normal')
