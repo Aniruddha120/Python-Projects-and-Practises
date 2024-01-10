@@ -19,5 +19,5 @@ if X == 4:
     c= Y*2
     print('Total: R$ ''%.2f'%c)
 if X == 5:
-    c= Y*1.5
+    c= Y*1.50
     print('Total: R$ ''%.2f'%c)
